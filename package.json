@@ -1,0 +1,28 @@
+{
+  "name": "platzi-messages",
+  "version": "1.0.1",
+  "description": "I don't know what to write for the first commit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Neil Ruiz <tutor_fl@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "platzi-rgm": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TutorPJ/npm-random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TutorPJ/npm-random-msg/issues"
+  },
+  "homepage": "https://github.com/TutorPJ/npm-random-msg#readme"
+}
